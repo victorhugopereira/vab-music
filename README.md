@@ -25,4 +25,4 @@ expo start
 
 abra o expo no celular e escaneia o codigo QR que vai aparece no navegador ou no seu terminal.
 
-## desfrute do aplicativo
+## Desfrute do aplicativo
