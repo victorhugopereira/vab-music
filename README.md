@@ -2,7 +2,7 @@
 aplicativo de musica.
 
 ## Novidades
-Chat, amizade e ouvir a musica que seu amigo anda ouvindo.
+Chat, amizade e ouça as musicas que seu amigo ouve.
 
 ## Como executar
 1º verifique se você possui o expo com o seguinte codigo
