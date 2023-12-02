@@ -1,4 +1,4 @@
-## EM DESENVOLVIMENTO AINDA
+## EM DESENVOLVIMENTO
 
 ## vab-music
 Aplicativo de musica.
