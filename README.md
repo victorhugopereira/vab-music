@@ -19,9 +19,7 @@ cd "C:\Users\NomeDoUsuario\Desktop\vab-music"
 
 yarn start - caso você tenha o yarn instalado
 
-npm start - caso você não tenha o npm no pc
-
-expo start
+npm start - caso você tenha o npm no pc ou você pode opitar pelo "expo start"
 
 3º Pegue o seu celular vá na playstore e baixe expo. obs não precisa ter conta no expo
 
