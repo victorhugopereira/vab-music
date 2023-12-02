@@ -4,7 +4,7 @@
 Aplicativo de musica.
 
 ## Novidades
-Chat, amizade e ouça as musicas que seu amigo ouve.
+Chat, amizade, ouça playlist do seu amigo e os artista favorito dele.
 
 ## Como executar
 1º verifique se você possui o expo com o seguinte codigo
